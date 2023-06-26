@@ -1,0 +1,10 @@
+BEGIN
+CONST entero numero;
+entero numero2 = 4;
+imprimir(numero2);
+cadena palabra;
+cadena palabra2 = ("hola mundo");
+leer(palabra2);
+booleano bandera;
+booleano bandera2 = verdadero;
+END

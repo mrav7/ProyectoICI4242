@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ProyectoICI4242</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>antlr-4.7.1/antlr-4.7.1-complete.jar</name>
+			<type>1</type>
+			<location>/home/mrav7/Documents/Universidad/2023S1/AUTOMATASYCOMPILADORES/compilador-alumnos/compilador-alumnos/antlr-4.7.1-complete.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
